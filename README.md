@@ -5,5 +5,9 @@ Its contents locate in [github_]()
 
 
 # **Resources:**
-https://github.com/ujjwalkarn/DataScienceR
+1. https://github.com/ujjwalkarn/DataScienceR
+2. https://github.com/hanhanwu/Hanhan_Data_Science_Resources
+3. https://github.com/PacktPublishing/Simulation-for-Data-Science-with-R
+4. https://github.com/PacktPublishing/Simulation-for-Data-Science-with-R
+5. https://github.com/jmstanto/data-science-r
 
